@@ -1,0 +1,8 @@
+topElement: '#dd_container'
+snippetsPath: 'bootstrap/snippets.html'
+buttonClass: 'btn btn-default'
+buttonOptions:
+  option1:
+    "btn-lg": "Large"
+    "btn-md": "Medium"
+    "btn-sm": "Small"
